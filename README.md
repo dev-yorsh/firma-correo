@@ -1,4 +1,4 @@
-# firma-correo
+# firma-correo - Gmail
 Repositorio que contiene código para crear firmas para correo electrónico 
 
 # Pasos para generar la firma:
@@ -12,3 +12,19 @@ Repositorio que contiene código para crear firmas para correo electrónico
 ## 3. Copiar el contenido generado y pegarlo en la sección de firmas de Gmail, Outlook, etc.
 
 ![Captura de pantalla 2025-02-12 a la(s) 6 51 53 p  m](https://github.com/user-attachments/assets/dadfed7b-f3f0-4788-bbf3-358d90042e6b)
+
+--------------------------------
+
+# firma-correo - MAIL MAC
+## PASO 1. 
+Crear una firma normal en mail -> preferencias  
+
+![Captura de pantalla 2025-02-12 a la(s) 10 30 14 p  m](https://github.com/user-attachments/assets/18b59b28-7b80-46e0-a664-ec8a1f691c0d)
+
+
+## PASO 2. 
+- Presionar (Shift + cmd + G)  e ir a la ruta ~/Library/Mail/
+
+
+- Editar el archivo marcado y pegar el codigo fuente en el repositorio.
+- ![Captura de pantalla 2025-02-12 a la(s) 10 33 19 p  m](https://github.com/user-attachments/assets/a0001f64-7e21-491c-9e00-01c405138b37)
